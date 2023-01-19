@@ -8,7 +8,7 @@
 :root {
   --channel-name-no-hover-margin: 15px; /*15px for hidding the name, 0px for showing the name*/
   --channel-name-no-hover-opacity: 0; /*0 for hiding the name, 1 for showing the name*/
-  --siderbar-no-hover-width: 23px; /*60px for just the channelIcon, 80px for the 1st 2/3 letters of the channel names*/
+  --siderbar-no-hover-width: 1px; /*60px for just the channelIcon, 80px for the 1st 2/3 letters of the channel names*/
 }
 
 /*small dm/channel list*/
